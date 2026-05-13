@@ -158,7 +158,7 @@ streamlit run Dashboard/dashboard.py
 | **Mekdes Wonde** | DBU1601854 | Analytical Data Extraction Routines (`scripts/extract.py`), Star Schema Relational Blueprinting, and Input File Validations. |
 | **Haymanot Mekonen** | DBU1601247 | UI/UX Analytical Visual Suite Architecture (`Dashboard/dashboard.py`), Chart Controls, and KPI Widget Logic. |
 | **Mestawot Mihrete** | DBU1601337 | Platform Deployment Coordinator, Repository Structure Standardization, System Configurations, and Master Run Script (`run_pipeline.py`). |
-| **Radiet Abay** | DBU1601572 | Overall System Architecture Design, Target Database Loading Engine (`scripts/load.py`), and DuckDB Integration. |
+| **Rediet Abay** | DBU1601572 | Overall System Architecture Design, Target Database Loading Engine (`scripts/load.py`), and DuckDB Integration. |
 | **Hanna Getachew** | DBU1601241 | Distributed Compute Engineering, Core PySpark Transformations Layer (`scripts/transform.py`), and Multi-Source Data Alignment. |
 | **Betelehem Fasil** | DBU1601455 | Business Intelligence Aggregations, Data Format Ingestion Pipelines, and Multi-Source Key Association Testing. |
 
